@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:37:05 pm On 02/07/2020
+
+Output: ECP5_V2_BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [ECP5_V2.PrjPcb]
+   Generated File[ECP5_V2_BOM-ECP5_V2.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:39:10 pm On 02/07/2020
